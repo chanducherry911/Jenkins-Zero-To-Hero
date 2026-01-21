@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: <AWS_ACCOUNT_ID>.dkr.ecr.<REGION>.amazonaws.com/spring-boot-app
+  repository: 200901485389.dkr.ecr.ap-south-1.amazonaws.com/rapy-ecr
   tag: "latest"
   pullPolicy: Always
 
