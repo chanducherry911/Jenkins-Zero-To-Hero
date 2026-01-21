@@ -7,8 +7,8 @@ pipeline {
   }
 
   environment {
-    AWS_REGION = "us-east-1"
-    ECR_REPO = "<AWS_ACCOUNT_ID>.dkr.ecr.${AWS_REGION}.amazonaws.com/spring-boot-app"
+    AWS_REGION = "ap-south-1"
+    ECR_REPO = "200901485389.dkr.ecr.ap-south-1.amazonaws.com/rapy-ecr"
   }
 
   stages {
