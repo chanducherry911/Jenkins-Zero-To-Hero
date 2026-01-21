@@ -1,6 +1,6 @@
 apiVersion: v2
 name: spring-boot-app
-description: Spring Boot app deployed via Helm and Argo CD
+description: Spring Boot app deployed using Helm and Argo CD
 type: application
 version: 0.1.0
 appVersion: "1.0"
